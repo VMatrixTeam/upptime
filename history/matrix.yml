@@ -1,7 +1,7 @@
 url: https://matrix.sysu.edu.cn
-status: down
-code: 503
-responseTime: 3280
-lastUpdated: 2021-01-30T04:00:16.262Z
+status: up
+code: 200
+responseTime: 3653
+lastUpdated: 2021-01-30T04:35:07.848Z
 startTime: Sat Jan 30 2021 01:36:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
