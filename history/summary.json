@@ -4,17 +4,19 @@
     "url": "https://matrix.sysu.edu.cn",
     "icon": "https://favicons.githubusercontent.com/matrix.sysu.edu.cn",
     "slug": "matrix",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3341,
-    "timeDay": 3341,
-    "timeWeek": 3341,
-    "timeMonth": 3341,
-    "timeYear": 3341,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 3320,
+    "timeDay": 3320,
+    "timeWeek": 3320,
+    "timeMonth": 3320,
+    "timeYear": 3320,
+    "dailyMinutesDown": {
+      "2021-01-30": 0
+    }
   }
 ]
