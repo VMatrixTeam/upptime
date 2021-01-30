@@ -7,7 +7,7 @@ sites:
   - name: Matrix
     url: https://matrix.sysu.edu.cn
 
-runner: [self-hosted, Linux, X64, matrix]
+# runner: [self-hosted, Linux, X64, matrix]
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
